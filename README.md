@@ -9,5 +9,4 @@ The special pieces with special effects are the following:
         the row disappers and score is added.
   - Crazy: The way it rotates and shifts right/left is the opposite of that of the other pieces.
   
-This project was an assignment in CS 32 in UCLA. It was entirely made from scratch by me in spring of 2018.
-  
+This project was an assignment in CS 32 in UCLA. Made in spring of 2018.
